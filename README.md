@@ -1,4 +1,4 @@
-# Materiale per i partecipanti dell'evento Soccer Data Cup.
+# Materiale per i partecipanti dell'evento Soccer Data Cup
 
 Lo strumento che utilizzeremo per l'analisi dei dati è Jupyter, per seguire blocchi di codice python e visualizzare e creare plot.
 
