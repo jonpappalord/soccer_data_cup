@@ -193,7 +193,8 @@ def draw_game(tracking_data,player_data,frame_start,frame_stop, pitch_x_length =
 
 def create_plot(frames):
     """
-    slider creation for animation of frames
+    slider creation for animation of frames. It works by setting all frames to invisible, then by setting visible the frame
+    selected through the slider control
     """
     steps = []
     for i in range(0,len(frames),2):
