@@ -28,5 +28,5 @@ pandas tutorial https://pandas.pydata.org/pandas-docs/version/0.22/tutorials.htm
 
 - tracking_data: notebook con esempi di visualizzazione e aggregazione dei dati di tracking. 
 
-I dati da utilizzare sono forniti nella cartella condivisa su drive. Nella cartella troverete le stesse due cartelle (match_events e tracking_data), con dentro una sottocartella example_match contenente i dati relativi. Dovrete copiare la cartella example_match all'interno della relativa cartella madre.
-I dati delle partite del torneo vi verranno forniti allo stesso modo, tramite la stessa cartella su drive.
+I dati da utilizzare sono forniti dagli ortanizzatori. Nello zip che riceverete, troverete le stesse due cartelle (match_events e tracking_data), con dentro una sottocartella example_match contenente i dati relativi. Dovrete copiare la cartella example_match all'interno della relativa cartella madre.
+I dati delle partite del torneo vi verranno forniti allo stesso modo e nello stesso formato (per ogni tipologia di dato, una cartella per ogni partita).
